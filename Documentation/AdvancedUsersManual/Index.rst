@@ -20,6 +20,5 @@ Advanced users manual
 	:titlesonly:
 
 	RenderingPdf/Index
-	Plugins/Index
 	AdvancedCrossLinks/Index
 	UsingSphinxCommandLine/Index
